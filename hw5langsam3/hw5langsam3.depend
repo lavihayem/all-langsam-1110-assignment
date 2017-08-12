@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1502438235 source:c:\users\rafi\desktop\hw5landsam3\main.cpp
+	<cstdlib>
+	<fstream>
+	<cctype>
+	<iostream>
+	<string>
+
+1502438235 source:c:\users\rafi\desktop\hw5langsam3\main.cpp
+	<cstdlib>
+	<fstream>
+	<cctype>
+	<iostream>
+	<string>
+

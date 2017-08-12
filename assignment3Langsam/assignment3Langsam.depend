@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1501805574 source:c:\users\rafi\desktop\assignment3langsam\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+

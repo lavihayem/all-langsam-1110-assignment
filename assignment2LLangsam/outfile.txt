@@ -1,0 +1,29 @@
+ 
+
+
+			           Miser Corporation Payroll  
+
+
+Last name  first name        hour work    rate of pay    age   Base Pay  Net Pay
+Duck        Donald            45.00        3.50          60   166.25     83.12
+
+
+Last name  first name        hour work    rate of pay    age   Base Pay  Net Pay
+Mouse        Micky            35.00        3.50          95   140.00     70.00
+
+
+Last name  first name        hour work    rate of pay    age   Base Pay  Net Pay
+Brown        charlie            35.00        3.50          20   140.00     126.00
+
+
+Last name  first name        hour work    rate of pay    age   Base Pay  Net Pay
+Oyle        Olive            40.00        3.50          60   140.00     70.00
+
+
+Last name  first name        hour work    rate of pay    age   Base Pay  Net Pay
+Oyle        Olive            40.00        3.50          60   140.00     70.00
+
+
+Oldest person first name :  Micky     Oldest person last name:       Mouse95
+
+youngest person first name :  charlie   youngest person last name:    Brown  20

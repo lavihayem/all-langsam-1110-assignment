@@ -1,0 +1,17 @@
+Duck Donald
+
+45.0 3.50  60
+
+Mouse Micky
+
+35   3.50  95
+
+Brown charlie
+
+35   3.50   20
+
+Oyle Olive
+
+40   3.50   60
+
+
