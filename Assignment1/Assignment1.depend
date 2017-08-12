@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1501803020 source:c:\users\rafi\cplusplus\assignment1\main.cpp
+	<iostream>
+	<fstream>
+

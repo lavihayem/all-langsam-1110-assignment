@@ -1,0 +1,14 @@
+Rate of pay:          50.00
+Total hours worked:   10
+Straight time:        10
+Over Time:            0.00
+Gross Pay:            500.00
+Tax:                  100.00
+Net Pay:              400.00
+Rate of pay:          50.00
+Total hours worked:   100
+Straight time:        100
+Over Time:            0.00
+Gross Pay:            5000.00
+Tax:                  1000.00
+Net Pay:              4000.00
